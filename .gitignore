@@ -1,0 +1,13 @@
+# Ficheiros temporarios
+*.log
+*.tmp
+
+# Ficheiros do Windows
+Thumbs.db
+Desktop.ini
+
+# Ficheiros do macOS
+.DS_Store
+
+# Configuracoes locais de editores
+.vscode/
